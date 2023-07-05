@@ -8,5 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Markeeto/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Markeeto/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Markeeto/azure-network-protocols)
 
